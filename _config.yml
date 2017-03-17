@@ -1,0 +1,8 @@
+title: Padre, the Perl IDE
+description: Perl Application Development and Refactoring Environment
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
